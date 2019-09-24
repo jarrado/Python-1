@@ -1,0 +1,9 @@
+character_name = "Sam"
+Character_age = 21.241230
+is_Female = True
+print("there was once girl name" + character_name + ",")
+print("She was" + character_age + " years old.")
+
+character_name = "Jared"
+print("he really hate the name" + character_name + ",")
+print("but love being " + character_name + ",")
